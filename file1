@@ -1,3 +1,4 @@
 date
 cal
 ls
+echo "done"
